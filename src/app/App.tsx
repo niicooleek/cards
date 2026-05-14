@@ -132,7 +132,7 @@ export default function App() {
   return (
     <div
       className="size-full flex flex-col items-center justify-center gap-10"
-      style={{ background: "#F6F6F1" }}
+      style={{ background: "#00000000" }}
     >
       {/* Deck */}
       <div
