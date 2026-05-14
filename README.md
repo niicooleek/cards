@@ -1,7 +1,7 @@
 
   # Generar código o GIF
 
-  This is a code bundle for Generar código o GIF. The original project is available at https://www.figma.com/design/TUuTCOwLMhAjfdObN1DYZj/Generar-c%C3%B3digo-o-GIF.
+  This is a code bundle for Generar código o GIF. 
 
   ## Running the code
 
