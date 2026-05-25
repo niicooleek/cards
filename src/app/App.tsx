@@ -123,7 +123,7 @@ export default function App() {
     if (paused) return;
     intervalRef.current = setInterval(() => {
       setActiveIndex(prev => (prev + 1) % 4);
-    }, 6000);
+    }, 10000);
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
